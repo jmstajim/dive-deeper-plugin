@@ -49,7 +49,8 @@ Fix: [specific change needed]
 2. Type `/plugin` or click **Manage plugins**
 3. Go to **Marketplaces** tab
 4. Enter `jmstajim/dive-deeper-plugin` and click **Add**
-5. Go to **Plugins** tab, find `dive-deeper` and install it
+5. Go back to **Plugins** tab
+6. Find `dive-deeper` under **Available** and click **Install**
 
 ## Usage
 
