@@ -36,10 +36,20 @@ Fix: [specific change needed]
 
 ## Install
 
+### CLI
+
 ```bash
 /plugin marketplace add jmstajim/dive-deeper-plugin
 /plugin install dive-deeper@dive-deeper-plugin
 ```
+
+### VS Code
+
+1. Open Claude Code in VS Code
+2. Type `/plugin` or click **Manage plugins**
+3. Go to **Marketplaces** tab
+4. Enter `jmstajim/dive-deeper-plugin` and click **Add**
+5. Go to **Plugins** tab, find `dive-deeper` and install it
 
 ## Usage
 
