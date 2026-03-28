@@ -1,0 +1,8 @@
+{
+  "name": "dive-deeper",
+  "version": "1.0.0",
+  "description": "Deep-dive analysis skill for planning phase — trace execution paths, find related code, surface edge cases and potential problems",
+  "author": {
+    "name": "Aleksei Gusachenko"
+  }
+}

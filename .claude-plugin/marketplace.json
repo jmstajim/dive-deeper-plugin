@@ -1,0 +1,14 @@
+{
+  "name": "dive-deeper-plugin",
+  "owner": {
+    "name": "Aleksei Gusachenko"
+  },
+  "plugins": [
+    {
+      "name": "dive-deeper",
+      "source": "./",
+      "description": "Deep-dive analysis skill for planning phase — trace execution paths, find related code, surface edge cases and potential problems",
+      "version": "1.0.0"
+    }
+  ]
+}
